@@ -1,4 +1,4 @@
-"CARD_DETAILS_LABEL"                        = "Kreditkartendaten";
+"CARD_DETAILS_LABEL"                        = "";
 "ENTER_CARD_DETAILS_HELP_LABEL"             = "Geben Sie Ihre Kreditkartendaten ein, beginnend mit der Kreditkartennummer.";
 "VALID_CARD_ERROR_LABEL"                    = "Geben Sie eine gültige Kreditkartennummer ein.";
 "CARD_REQUIRED"                             = "Kreditkartennummer ist erforderlich";
@@ -41,7 +41,7 @@
 "OTHER_LABEL"                               = "Sonstiges";
 "CREDIT_OR_DEBIT_CARD_LABEL"                = "Kredit- oder Debitkarte";
 "RECENT_LABEL"                              = "Zuletzt";
-"SELECT_PAYMENT_LABEL"                      = "Zahlungsquelle auswählen";
+"SELECT_PAYMENT_LABEL"                      = "";
 
 "CONFIRM_ENROLLMENT_LABEL"                  = "Anmeldung bestätigen";
 "CONFIRM_ACTION"                            = "Bestätigen";

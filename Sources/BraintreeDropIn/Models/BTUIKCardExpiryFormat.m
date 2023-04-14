@@ -16,7 +16,7 @@
         return;
     }
 
-    if (*cursorLocation == 1 && s.length == 1 && [s characterAtIndex:0] > '1' && [s characterAtIndex:0] <= '9') {
+    if (*cursorLocation == 1 && s.length == 1 && [s characterAtIndex:0] > '0' && [s characterAtIndex:0] <= '9') {
         [s insertString:@"0" atIndex:0];
         *cursorLocation += 1;
     }
